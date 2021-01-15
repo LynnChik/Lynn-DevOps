@@ -3,5 +3,6 @@
 Simple Maven Project
 
 ========================================================
-Name : Lynnet Chikerema
+Name : Shingai
+Position : Team Lead
 Date : 01/14/2021
